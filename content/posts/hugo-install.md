@@ -93,4 +93,4 @@ hugo help
 
 ## 下一步
 
-安装完成后，可以进入下一篇文章 [Hugo 快速开始](/posts/hugo-quickstart/)，创建你的第一个 Hugo 站点。
+安装完成后，可以进入下一篇文章 [Hugo 快速开始]({{< ref "posts/hugo-quickstart.md" >}})，创建你的第一个 Hugo 站点。

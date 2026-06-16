@@ -123,4 +123,4 @@ theme = 'ananke'
 4. ✅ 本地预览
 5. ✅ 构建生产版本
 
-下一步可以深入学习 [Hugo 配置详解](/posts/hugo-config/)。
+下一步可以深入学习 [Hugo 配置详解]({{< ref "posts/hugo-config.md" >}})。

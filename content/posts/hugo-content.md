@@ -166,4 +166,4 @@ Hugo 自动从内容中提取摘要：
 
 ## 下一步
 
-学习完内容管理，可以深入探索 [Hugo 模板与布局系统](/posts/hugo-templates/)。
+学习完内容管理，可以深入探索 [Hugo 模板与布局系统]({{< ref "posts/hugo-templates.md" >}})。

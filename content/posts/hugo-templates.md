@@ -192,4 +192,4 @@ layouts/
 
 ## 下一步
 
-掌握模板系统后，继续学习 [Hugo 短代码](/posts/hugo-shortcodes/)。
+掌握模板系统后，继续学习 [Hugo 短代码]({{< ref "posts/hugo-shortcodes.md" >}})。

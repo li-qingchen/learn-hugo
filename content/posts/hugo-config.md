@@ -174,4 +174,4 @@ summaryLength = 70
 
 ## 下一步
 
-掌握了配置文件后，可以继续学习 [内容管理与 Front Matter](/posts/hugo-content/)。
+掌握了配置文件后，可以继续学习 [内容管理与 Front Matter]({{< ref "posts/hugo-content.md" >}})。

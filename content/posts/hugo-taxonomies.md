@@ -191,4 +191,4 @@ series = []
 
 ## 下一步
 
-分类系统让站点内容更有组织性。最后来看看 [Hugo 站点部署](/posts/hugo-deploy/)。
+分类系统让站点内容更有组织性。最后来看看 [Hugo 站点部署]({{< ref "posts/hugo-deploy.md" >}})。

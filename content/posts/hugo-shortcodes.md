@@ -202,4 +202,4 @@ func main() {
 
 ## 下一步
 
-短代码为 Markdown 内容注入了编程能力。接下来学习 [Hugo 分类与标签](/posts/hugo-taxonomies/)。
+短代码为 Markdown 内容注入了编程能力。接下来学习 [Hugo 分类与标签]({{< ref "posts/hugo-taxonomies.md" >}})。

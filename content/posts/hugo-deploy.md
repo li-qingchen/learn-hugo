@@ -237,13 +237,13 @@ hugo \
 
 至此你已经掌握了 Hugo 的完整使用流程：
 
-1. ✅ [安装环境](/posts/hugo-install/)
-2. ✅ [快速开始](/posts/hugo-quickstart/)
-3. ✅ [配置文件](/posts/hugo-config/)
-4. ✅ [内容管理](/posts/hugo-content/)
-5. ✅ [模板系统](/posts/hugo-templates/)
-6. ✅ [短代码](/posts/hugo-shortcodes/)
-7. ✅ [分类标签](/posts/hugo-taxonomies/)
+1. ✅ [安装环境]({{< ref "posts/hugo-install.md" >}})
+2. ✅ [快速开始]({{< ref "posts/hugo-quickstart.md" >}})
+3. ✅ [配置文件]({{< ref "posts/hugo-config.md" >}})
+4. ✅ [内容管理]({{< ref "posts/hugo-content.md" >}})
+5. ✅ [模板系统]({{< ref "posts/hugo-templates.md" >}})
+6. ✅ [短代码]({{< ref "posts/hugo-shortcodes.md" >}})
+7. ✅ [分类标签]({{< ref "posts/hugo-taxonomies.md" >}})
 8. ✅ 站点部署
 
 推荐部署方案：
