@@ -1,4 +1,24 @@
-baseURL = 'https://qingchen177.github.io/hugo-demo/'
+baseURL = 'https://li-qingchen.github.io/learn-hugo/'
 languageCode = 'zh-Hans-CN'
-title = 'Qingchen'
+title = 'learn-hugo'
 theme = 'ananke'
+
+[params]
+  author = 'Qingchen'
+  description = 'Hugo 静态网站生成器学习站点 — 从安装到部署的完整中文教程'
+  github = 'https://github.com/li-qingchen/learn-hugo'
+
+[[menu.main]]
+  name = '文章'
+  url = '/posts/'
+  weight = 1
+
+[[menu.main]]
+  name = '分类'
+  url = '/categories/'
+  weight = 2
+
+[[menu.main]]
+  name = '标签'
+  url = '/tags/'
+  weight = 3

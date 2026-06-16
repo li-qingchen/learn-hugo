@@ -1,2 +1,11 @@
+# IDE
 .idea
+.vscode
+
+# Hugo 构建产物（CI 中会重新生成，不应入库）
+/public/
+/resources/_gen/
+
+# 依赖锁定文件
 *.lock
+.hugo_build.lock
